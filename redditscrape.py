@@ -25,8 +25,8 @@ from interuptingcow import timeout
 from lxml import etree
 from lxml.html import parse
 
-CLIENT_ID = "pzAUlnOsJHvpGw"
-CLIENT_SECRET = "OjxrAQbywAuZ2md1kyggQkz16qc"
+CLIENT_ID = "Given ID by Reddit"
+CLIENT_SECRET = "Given Secret by Reddit"
 
 USER_AGENT = "python:cti gathering (by /u/levitannin)"
 
