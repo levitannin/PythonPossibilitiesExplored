@@ -9,6 +9,8 @@ Challenges can be found here:
 Chapter 3 Challenge:
     Know their Names
     Helping Organizations
+Chapter 4 Challenge:
+    Efficient Output
 
 Source for Names and information: https://interactive.aljazeera.com/aje/2020/know-their-names/index.html
 
@@ -36,8 +38,9 @@ knowTheirNames = [
     "Alatiana Jefferson",
     "Breonna Taylor",
     "George Floyd"
-    ]
+]
 
+#   CH 4 challenge is to add the loop printing process.
 print("Know their names:\n")
 for name in knowTheirNames:
     print(f"Know {name}.")
@@ -164,6 +167,7 @@ knowThesePeople = {
     }
     }
 
+#   CH 4 challenge is to add the loop printing process.
 for d in knowThesePeople:
     print(f"""
     Know {knowThesePeople[d]["name"]}.
